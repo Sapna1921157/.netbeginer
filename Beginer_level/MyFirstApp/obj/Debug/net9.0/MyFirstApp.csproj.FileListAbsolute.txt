@@ -1,0 +1,15 @@
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\bin\Debug\net9.0\MyFirstApp.exe
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\bin\Debug\net9.0\MyFirstApp.deps.json
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\bin\Debug\net9.0\MyFirstApp.runtimeconfig.json
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\bin\Debug\net9.0\MyFirstApp.dll
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\bin\Debug\net9.0\MyFirstApp.pdb
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\obj\Debug\net9.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\obj\Debug\net9.0\MyFirstApp.AssemblyInfoInputs.cache
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\obj\Debug\net9.0\MyFirstApp.AssemblyInfo.cs
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\obj\Debug\net9.0\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\obj\Debug\net9.0\MyFirstApp.sourcelink.json
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\obj\Debug\net9.0\MyFirstApp.dll
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\obj\Debug\net9.0\refint\MyFirstApp.dll
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\obj\Debug\net9.0\MyFirstApp.pdb
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\obj\Debug\net9.0\MyFirstApp.genruntimeconfig.cache
+D:\Dotnet_tutorial\Beginer_level\MyFirstApp\obj\Debug\net9.0\ref\MyFirstApp.dll
